@@ -1,0 +1,1 @@
+# satatic_web_and_java
